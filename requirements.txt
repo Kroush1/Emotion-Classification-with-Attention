@@ -1,0 +1,15 @@
+accelerate
+datasets
+evaluate
+gensim
+gradio
+jupyter
+kagglehub
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
+torch
+tqdm
+transformers
